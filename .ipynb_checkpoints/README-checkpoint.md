@@ -1,0 +1,1 @@
+# Análise e predição de dados sobre sentimentos em 'tweets'
